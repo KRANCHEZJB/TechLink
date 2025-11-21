@@ -1,4 +1,4 @@
-# TechLinkTechLink 🌍
+TechLink 🌍
 
 Connecting volunteers with SDG-driven events hosted by organizations — making sustainable impact accessible.
 
